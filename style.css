@@ -6,12 +6,12 @@
   }
   
   :root {
-    --pastel-pink: #ad8671;
-    --pastel-blue: #717dad;
+    --pastel-green: #1E9A64;
+    --pastel-blue: #755DCB;
   }
   
   .light-theme {
-    --default-bg: var(--pastel-pink);
+    --default-bg: var(--pastel-green);
   }
   
   .dark-theme {
